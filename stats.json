@@ -49,8 +49,8 @@
       "path---005-paralelos-84da3a89b9c380a57072.js.map"
     ],
     "path---index": [
-      "path---index-795ec9fd48c0d161a9d3.js",
-      "path---index-795ec9fd48c0d161a9d3.js.map"
+      "path---index-869395fffbf41d5a9378.js",
+      "path---index-869395fffbf41d5a9378.js.map"
     ],
     "path---006-silencio-caminhar": [
       "path---006-silencio-caminhar-64125f80053846ccbd85.js",
@@ -75,9 +75,9 @@
       "path---009-autocomplete-redes-neurais-6a454c662301f5514751.js.map"
     ],
     "app": [
-      "app-95dd836100b8eaff1840.js",
+      "app-e8753fd90cab1a3086a7.js",
       "build-js-styles.css",
-      "app-95dd836100b8eaff1840.js.map",
+      "app-e8753fd90cab1a3086a7.js.map",
       "build-js-styles.css.map"
     ],
     "path---010-por-que-preact": [
