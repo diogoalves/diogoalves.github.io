@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Diogo Alves]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 27 Nov 2017 00:33:48 GMT</lastBuildDate><item><title><![CDATA[Hábitos]]></title><description><![CDATA[Ler  How to build good work habits  despertou alguns insights. Comecei a encarar os hábitos como  caches  de nossas escolhas, com objetivo…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//015-work-habits/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//015-work-habits/</guid><pubDate>Sun, 26 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ler &lt;a href=&quot;http://blog.rescuetime.com/how-to-build-good-habits/?utm_source=Blog+Newsletter&amp;#x26;utm_campaign=f20433cb84-EMAIL_CAMPAIGN_2017_11_01&amp;#x26;utm_medium=email&amp;#x26;utm_term=0_6e017e2559-f20433cb84-48191967&quot;&gt;How to build good work habits&lt;/a&gt; despertou alguns insights.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Diogo Alves]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 11 Dec 2017 01:31:39 GMT</lastBuildDate><item><title><![CDATA[Primeiro contato com aplicativos baseados em blockchain]]></title><description><![CDATA[Fiquei fascinado com as possibilidades de smart contracts após um amigo me apresentar o  CryptoKitties . Sempre imaginava a blockchain como…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//018-app-blockchain/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//018-app-blockchain/</guid><pubDate>Sun, 10 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Fiquei fascinado com as possibilidades de smart contracts após um amigo me apresentar o &lt;a href=&quot;https://www.cryptokitties.co/&quot;&gt;CryptoKitties&lt;/a&gt;. Sempre imaginava a blockchain como simplesmente
+uma assinatura de chave pública encadeada com objetivo de manter certa integridade nas
+transações. Não é só isso, a possibilidade de rodar código de forma descentralizada
+abre espaço para mudar várias regras do jogo. &lt;/p&gt;
+&lt;p&gt;Ao ler &lt;a href=&quot;https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3&quot;&gt;How to Code Your Own CryptoKitties-Style Game on Ethereum&lt;/a&gt;, fica mais claro que o jogo não é 100% baseado em blockchain mas apenas utiliza a blockchain com estrutura de dados persistente e com backend para rodar alguns smart contracts. Genial.&lt;/p&gt;
+&lt;p&gt;Parte do &lt;a href=&quot;https://ethfiddle.com/09YbyJRfiI&quot;&gt;código&lt;/a&gt; está aberto e já da pra sentir que a linguagem de programação é um frankstein meio pé-duro. Talvez, limitações de segurança forçaram a certos decisões defensivas no design na linguagem. Ainda não programei nada nela mas parece mais uma pedra brilhante que já já vou tentar pegar.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Entrevista de Steven Jobs]]></title><description><![CDATA[Um amigo me passou os links e estou guardando aqui para rever de vez em quando. Steve Jobs - A Entrevista Perdida - Legendado Português (BR…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//017-entrevista-jobs/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//017-entrevista-jobs/</guid><pubDate>Sat, 09 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Um amigo me passou os links e estou guardando aqui para rever de vez em quando.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dPWn40GJjcw&amp;#x26;t=1s&quot;&gt;Steve Jobs - A Entrevista Perdida - Legendado Português (BR) / Parte 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=bbNDtey0RL4&quot;&gt;Steve Jobs - A Entrevista Perdida - Legendado Português (BR) / Parte 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UqHM7ZorDc0&quot;&gt;Steve Jobs - A Entrevista Perdida - Legendado Português (BR) / Parte 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1i247GN1RlA&quot;&gt;Steve Jobs - A Entrevista Perdida - Legendado Português (BR) / Parte 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HRHjVsMHspA&quot;&gt;Steve Jobs - A Entrevista Perdida - Legendado Português (BR) / Parte 5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Sobre a citação de Picasso: “Bons artistas copiam, grandes artistas roubam.”&lt;/h4&gt;
+&lt;p&gt;Tem esse texto &lt;a href=&quot;https://medium.com/@felipebernardes/bons-artistas-copiam-grandes-artistas-roubam-c9be863f2395&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Muitas pessoas consideram isso como uma permissão pra plagiar ou roubar diretamente o trabalho de outros, mas isso é distorcer completamente a citação do contexto da mente criativa. Na verdade, o que a citação pretende retratar é que &lt;strong&gt;um grande artista rouba inspiração, não o trabalho em si&lt;/strong&gt;. Um grande artista verá algo de belo, e então entenderá como fazê-lo mais belo ao adicionar um pedaço de si mesmo à tal.
+Um artista “mais ou menos” tentará copiar precisamente a arte existente e no processo criará uma versão de qualidade inferior. Esse é o único resultado possível, pois não há nada a se ganhar copiando algo que já existe. Acaba sendo apenas… qualquer coisa.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;Sobre  a construção da blue box&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;we learned was that we could build something ourselves that could control billions of dollars’ worth of infrastructure in the world. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;From blue boxes to computers&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;necessity&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;Sobre computadores.&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Computadores com espelho de processo de pensamento, para realmente aprender a pensar.
+Como um meio de expressão, como um lugar para extender suas ideias, como uma ferramenta de extensão das capacidades humanas.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;Doença de pensar que uma boa ideia é 90% do trabalho.&lt;/h4&gt;
+&lt;p&gt;Na verdade a primeira ideia só é a faísca e é o esforço dia a dia, protótipo a protótipo, outras ideias, discussoes,  aprendizados e muito trabalho que gera um bom produto.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Distância enorme entre uma grande ideia e um grande produto. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;Time A&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Diferença é um de uma pessoa mediana de software para uma pessoa brilhante é 50 para 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As melhores pessoas são as únicas que entendem o conteúdo e são muito difíceis de gerenciar.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Contratando alguém de fora quando a equipe não consegue ver(~2min parte 4), e criando uma shadow ti.
+Processo vs Conteúdo || Processo de gerenciamento vs Concepção&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hábitos]]></title><description><![CDATA[Ler  How to build good work habits  despertou alguns insights. Comecei a encarar os hábitos como  caches  de nossas escolhas, com objetivo…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//015-work-habits/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//015-work-habits/</guid><pubDate>Sun, 26 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ler &lt;a href=&quot;http://blog.rescuetime.com/how-to-build-good-habits/?utm_source=Blog+Newsletter&amp;#x26;utm_campaign=f20433cb84-EMAIL_CAMPAIGN_2017_11_01&amp;#x26;utm_medium=email&amp;#x26;utm_term=0_6e017e2559-f20433cb84-48191967&quot;&gt;How to build good work habits&lt;/a&gt; despertou alguns insights.&lt;/p&gt;
 &lt;p&gt;Comecei a encarar os hábitos como &lt;strong&gt;caches&lt;/strong&gt; de nossas escolhas, com objetivo talvez de otimizar o gasto de energia.&lt;/p&gt;
 &lt;p&gt;comportamento &gt;= escolhas &gt;= hábitos &gt;= rotinas&lt;/p&gt;
 &lt;p&gt;O mecanismo é simples:&lt;/p&gt;

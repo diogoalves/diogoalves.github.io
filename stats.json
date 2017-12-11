@@ -20,6 +20,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---017-entrevista-jobs": [
+      "path---017-entrevista-jobs-35b150d5ba74add55f74.js",
+      "path---017-entrevista-jobs-35b150d5ba74add55f74.js.map"
+    ],
     "path---012-guide-workplace-productivity": [
       "path---012-guide-workplace-productivity-ed1d89d870260647203e.js",
       "path---012-guide-workplace-productivity-ed1d89d870260647203e.js.map"
@@ -53,8 +57,8 @@
       "path---005-paralelos-adad4732b5a32d1eaa9f.js.map"
     ],
     "path---index": [
-      "path---index-545d8199b4aa21b48442.js",
-      "path---index-545d8199b4aa21b48442.js.map"
+      "path---index-dbcec263073f845fca5d.js",
+      "path---index-dbcec263073f845fca5d.js.map"
     ],
     "path---006-silencio-caminhar": [
       "path---006-silencio-caminhar-4ae0a4030481370d6908.js",
@@ -63,6 +67,10 @@
     "path---015-work-habits": [
       "path---015-work-habits-b106a2c40b66a1979aab.js",
       "path---015-work-habits-b106a2c40b66a1979aab.js.map"
+    ],
+    "path---018-app-blockchain": [
+      "path---018-app-blockchain-8c7fd258da34330dbae2.js",
+      "path---018-app-blockchain-8c7fd258da34330dbae2.js.map"
     ],
     "commons": [
       "commons-b9295c1fa34e18bb3199.js",
@@ -87,9 +95,9 @@
       "path---009-autocomplete-redes-neurais-18442bb3affdefbd5a7f.js.map"
     ],
     "app": [
-      "app-4e7b0c1ac4e26942e4e4.js",
+      "app-d7d6a81b0a6ede30ed8b.js",
       "build-js-styles.css",
-      "app-4e7b0c1ac4e26942e4e4.js.map",
+      "app-d7d6a81b0a6ede30ed8b.js.map",
       "build-js-styles.css.map"
     ],
     "path---010-por-que-preact": [
