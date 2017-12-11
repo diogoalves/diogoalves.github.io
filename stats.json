@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---001-effective-programs": [
-      "path---001-effective-programs-e3c280ed294496d8f80d.js",
-      "path---001-effective-programs-e3c280ed294496d8f80d.js.map"
+      "path---001-effective-programs-fa6322bfd3ae154aa0da.js",
+      "path---001-effective-programs-fa6322bfd3ae154aa0da.js.map"
     ],
     "path---004-cancer-metabolic-disease": [
-      "path---004-cancer-metabolic-disease-3af6e9bfab0e0db59001.js",
-      "path---004-cancer-metabolic-disease-3af6e9bfab0e0db59001.js.map"
+      "path---004-cancer-metabolic-disease-581337c26e3be53b9f47.js",
+      "path---004-cancer-metabolic-disease-581337c26e3be53b9f47.js.map"
     ],
     "path---003-replicantes-androids-anfitrioes": [
-      "path---003-replicantes-androids-anfitrioes-5c2023c26947ef13e7d5.js",
-      "path---003-replicantes-androids-anfitrioes-5c2023c26947ef13e7d5.js.map"
+      "path---003-replicantes-androids-anfitrioes-b71c5283266da4a36679.js",
+      "path---003-replicantes-androids-anfitrioes-b71c5283266da4a36679.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-45864ee071ec4a1ae265.js",
@@ -21,12 +21,12 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---017-entrevista-jobs": [
-      "path---017-entrevista-jobs-35b150d5ba74add55f74.js",
-      "path---017-entrevista-jobs-35b150d5ba74add55f74.js.map"
+      "path---017-entrevista-jobs-bca17d7803ff715c9358.js",
+      "path---017-entrevista-jobs-bca17d7803ff715c9358.js.map"
     ],
     "path---012-guide-workplace-productivity": [
-      "path---012-guide-workplace-productivity-ed1d89d870260647203e.js",
-      "path---012-guide-workplace-productivity-ed1d89d870260647203e.js.map"
+      "path---012-guide-workplace-productivity-c089f2b849f41d923080.js",
+      "path---012-guide-workplace-productivity-c089f2b849f41d923080.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -37,40 +37,40 @@
       "component---src-templates-blog-post-js-f58a7e4f1757b96be5b0.js.map"
     ],
     "path---014-custo-reunioes": [
-      "path---014-custo-reunioes-a6e53ded087bb039b4ba.js",
-      "path---014-custo-reunioes-a6e53ded087bb039b4ba.js.map"
+      "path---014-custo-reunioes-eee35e73e2067905c4c3.js",
+      "path---014-custo-reunioes-eee35e73e2067905c4c3.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-050a168451033241c41e.js",
-      "component---src-layouts-index-js-050a168451033241c41e.js.map"
+      "component---src-layouts-index-js-3cd651a067b29a948669.js",
+      "component---src-layouts-index-js-3cd651a067b29a948669.js.map"
     ],
     "path---007-governos-que-servem": [
-      "path---007-governos-que-servem-b9fadce096046b442c25.js",
-      "path---007-governos-que-servem-b9fadce096046b442c25.js.map"
+      "path---007-governos-que-servem-987ab6d5e5132d831ab0.js",
+      "path---007-governos-que-servem-987ab6d5e5132d831ab0.js.map"
     ],
     "path---013-lessons-perfect-team": [
-      "path---013-lessons-perfect-team-efefbf27070168d4b444.js",
-      "path---013-lessons-perfect-team-efefbf27070168d4b444.js.map"
+      "path---013-lessons-perfect-team-9c710bc8cef18b91ba40.js",
+      "path---013-lessons-perfect-team-9c710bc8cef18b91ba40.js.map"
     ],
     "path---005-paralelos": [
-      "path---005-paralelos-adad4732b5a32d1eaa9f.js",
-      "path---005-paralelos-adad4732b5a32d1eaa9f.js.map"
+      "path---005-paralelos-bd54e0918a4a7d8e0b0e.js",
+      "path---005-paralelos-bd54e0918a4a7d8e0b0e.js.map"
     ],
     "path---index": [
-      "path---index-dbcec263073f845fca5d.js",
-      "path---index-dbcec263073f845fca5d.js.map"
+      "path---index-af21b1b94597d415c69d.js",
+      "path---index-af21b1b94597d415c69d.js.map"
     ],
     "path---006-silencio-caminhar": [
-      "path---006-silencio-caminhar-4ae0a4030481370d6908.js",
-      "path---006-silencio-caminhar-4ae0a4030481370d6908.js.map"
+      "path---006-silencio-caminhar-c4fe58bcc5d4ef123e93.js",
+      "path---006-silencio-caminhar-c4fe58bcc5d4ef123e93.js.map"
     ],
     "path---015-work-habits": [
-      "path---015-work-habits-b106a2c40b66a1979aab.js",
-      "path---015-work-habits-b106a2c40b66a1979aab.js.map"
+      "path---015-work-habits-ca8807e414c1cd85efde.js",
+      "path---015-work-habits-ca8807e414c1cd85efde.js.map"
     ],
     "path---018-app-blockchain": [
-      "path---018-app-blockchain-8c7fd258da34330dbae2.js",
-      "path---018-app-blockchain-8c7fd258da34330dbae2.js.map"
+      "path---018-app-blockchain-6593e1f98457bf89f21b.js",
+      "path---018-app-blockchain-6593e1f98457bf89f21b.js.map"
     ],
     "commons": [
       "commons-b9295c1fa34e18bb3199.js",
@@ -79,38 +79,38 @@
       "build-js-styles.css.map"
     ],
     "path---011-priorizar-warren-buffett": [
-      "path---011-priorizar-warren-buffett-1dfab211eaa881155045.js",
-      "path---011-priorizar-warren-buffett-1dfab211eaa881155045.js.map"
+      "path---011-priorizar-warren-buffett-4dd3142222565bbccd45.js",
+      "path---011-priorizar-warren-buffett-4dd3142222565bbccd45.js.map"
     ],
     "path---016-react-patterns": [
-      "path---016-react-patterns-1e7bfcd2ccb63cec0af5.js",
-      "path---016-react-patterns-1e7bfcd2ccb63cec0af5.js.map"
+      "path---016-react-patterns-4cb78fdfff65913b9085.js",
+      "path---016-react-patterns-4cb78fdfff65913b9085.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---009-autocomplete-redes-neurais": [
-      "path---009-autocomplete-redes-neurais-18442bb3affdefbd5a7f.js",
-      "path---009-autocomplete-redes-neurais-18442bb3affdefbd5a7f.js.map"
+      "path---009-autocomplete-redes-neurais-02a4a50d71fc861ee20f.js",
+      "path---009-autocomplete-redes-neurais-02a4a50d71fc861ee20f.js.map"
     ],
     "app": [
-      "app-d7d6a81b0a6ede30ed8b.js",
+      "app-fbc5ce4a73bcc818c2ee.js",
       "build-js-styles.css",
-      "app-d7d6a81b0a6ede30ed8b.js.map",
+      "app-fbc5ce4a73bcc818c2ee.js.map",
       "build-js-styles.css.map"
     ],
     "path---010-por-que-preact": [
-      "path---010-por-que-preact-2a56d5ef0ff956fc7e91.js",
-      "path---010-por-que-preact-2a56d5ef0ff956fc7e91.js.map"
+      "path---010-por-que-preact-59a9c81e230e0e14481e.js",
+      "path---010-por-que-preact-59a9c81e230e0e14481e.js.map"
     ],
     "path---008-ponto-virgula-javascript": [
-      "path---008-ponto-virgula-javascript-d0eec0a332045c60329a.js",
-      "path---008-ponto-virgula-javascript-d0eec0a332045c60329a.js.map"
+      "path---008-ponto-virgula-javascript-97a319a08ab5ece83f46.js",
+      "path---008-ponto-virgula-javascript-97a319a08ab5ece83f46.js.map"
     ],
     "path---002-building-microfrontends": [
-      "path---002-building-microfrontends-fec9ab5328e81f4da7a2.js",
-      "path---002-building-microfrontends-fec9ab5328e81f4da7a2.js.map"
+      "path---002-building-microfrontends-cee5cd6353c2c08bd6c0.js",
+      "path---002-building-microfrontends-cee5cd6353c2c08bd6c0.js.map"
     ]
   }
 }
