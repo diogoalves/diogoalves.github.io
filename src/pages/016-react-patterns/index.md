@@ -14,6 +14,9 @@ Lucas Reis fez um [trabalho muito interessante](http://lucasmreis.github.io/blog
 
 
 
+Outra fonte [React Patterns by React Training](https://reacttraining.com/patterns/)
+
+
 
 
 

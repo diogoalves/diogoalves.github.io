@@ -18,3 +18,4 @@ Achei o paradigma tão válido para mim que fui procurar algum material de apoio
 Paralelo da zona de conforto com a jaula de um tigre no zoológico.
 
 Me sinto afetado quando ele cita "Eu não danço" como exemplo de decisão de permanecer na zona de conforto.
+
