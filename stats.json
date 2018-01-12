@@ -1,5 +1,13 @@
 {
   "assetsByChunkName": {
+    "path---022-solitude-loneliness": [
+      "path---022-solitude-loneliness-52cec5839b592e6b4442.js",
+      "path---022-solitude-loneliness-52cec5839b592e6b4442.js.map"
+    ],
+    "path---020-lidando-com-ansiedade": [
+      "path---020-lidando-com-ansiedade-46661a656185a525662d.js",
+      "path---020-lidando-com-ansiedade-46661a656185a525662d.js.map"
+    ],
     "path---001-effective-programs": [
       "path---001-effective-programs-fa6322bfd3ae154aa0da.js",
       "path---001-effective-programs-fa6322bfd3ae154aa0da.js.map"
@@ -37,8 +45,8 @@
       "component---src-templates-blog-post-js-f58a7e4f1757b96be5b0.js.map"
     ],
     "path---014-custo-reunioes": [
-      "path---014-custo-reunioes-eee35e73e2067905c4c3.js",
-      "path---014-custo-reunioes-eee35e73e2067905c4c3.js.map"
+      "path---014-custo-reunioes-455b15b0a117e8d7edab.js",
+      "path---014-custo-reunioes-455b15b0a117e8d7edab.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-3cd651a067b29a948669.js",
@@ -57,16 +65,20 @@
       "path---005-paralelos-bd54e0918a4a7d8e0b0e.js.map"
     ],
     "path---index": [
-      "path---index-af21b1b94597d415c69d.js",
-      "path---index-af21b1b94597d415c69d.js.map"
+      "path---index-c82c0d5de11982b8d841.js",
+      "path---index-c82c0d5de11982b8d841.js.map"
     ],
     "path---006-silencio-caminhar": [
       "path---006-silencio-caminhar-c4fe58bcc5d4ef123e93.js",
       "path---006-silencio-caminhar-c4fe58bcc5d4ef123e93.js.map"
     ],
     "path---015-work-habits": [
-      "path---015-work-habits-ca8807e414c1cd85efde.js",
-      "path---015-work-habits-ca8807e414c1cd85efde.js.map"
+      "path---015-work-habits-0f05f025ba22e5548012.js",
+      "path---015-work-habits-0f05f025ba22e5548012.js.map"
+    ],
+    "path---021-hedonic-treadmill": [
+      "path---021-hedonic-treadmill-c5bc44de84416bd14963.js",
+      "path---021-hedonic-treadmill-c5bc44de84416bd14963.js.map"
     ],
     "path---018-app-blockchain": [
       "path---018-app-blockchain-6593e1f98457bf89f21b.js",
@@ -83,8 +95,8 @@
       "path---011-priorizar-warren-buffett-4dd3142222565bbccd45.js.map"
     ],
     "path---016-react-patterns": [
-      "path---016-react-patterns-4cb78fdfff65913b9085.js",
-      "path---016-react-patterns-4cb78fdfff65913b9085.js.map"
+      "path---016-react-patterns-51b9dbaba4116aefbc4d.js",
+      "path---016-react-patterns-51b9dbaba4116aefbc4d.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -95,9 +107,9 @@
       "path---009-autocomplete-redes-neurais-02a4a50d71fc861ee20f.js.map"
     ],
     "app": [
-      "app-fbc5ce4a73bcc818c2ee.js",
+      "app-58fbfce437dad2f308f9.js",
       "build-js-styles.css",
-      "app-fbc5ce4a73bcc818c2ee.js.map",
+      "app-58fbfce437dad2f308f9.js.map",
       "build-js-styles.css.map"
     ],
     "path---010-por-que-preact": [
@@ -111,6 +123,10 @@
     "path---002-building-microfrontends": [
       "path---002-building-microfrontends-cee5cd6353c2c08bd6c0.js",
       "path---002-building-microfrontends-cee5cd6353c2c08bd6c0.js.map"
+    ],
+    "path---019-mentalidade-de-crescimento": [
+      "path---019-mentalidade-de-crescimento-9a15a806974cd2eb5c37.js",
+      "path---019-mentalidade-de-crescimento-9a15a806974cd2eb5c37.js.map"
     ]
   }
 }
