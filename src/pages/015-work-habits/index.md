@@ -52,3 +52,6 @@ parece que estão no nível de percepção e elaboração.
 Talvez também exista relação com a intensidade desses filtros e o nível de estresse.
 
 
+--------
+
+[Autonomy, mastery and purpose](https://youtu.be/u6XAPnuFjJc)
